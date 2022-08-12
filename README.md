@@ -1,6 +1,6 @@
 # MicrobeClassification
 
-<img src="docs/images/ctscan.png" align="middle" width="3000"/>
+<img src="docs/images/Screen Shot 2022-08-11 at 7.11.09 PM" align="middle" width="3000"/>
 
 Bacteria have been growing increasingly more antibiotic-resistant over the years as bacterial genes adapt to the weaknesses that make antibiotics effective. As a solution to these adaptations, scientists have began using genetic sequencing to identify and battle against the genes in question. However, these sequencing techniques are meticulous and sometimes, they are not quick enough to save patient lives from infections. As a result, if we can use AI to quickly identify these microbes, more lives may be saved. 
 
